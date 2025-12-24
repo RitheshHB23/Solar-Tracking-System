@@ -1,2 +1,8 @@
-# Solar-Tracking-System
-Developed a dual-axis solar tracking system using Arduino that automatically aligns the solar panel with the sun for improved energy output.
+ 
+Automatic Dual-Axis Solar Tracking System
+
+This project tracks the sun using LDR sensors and adjusts
+the solar panel using servo motors controlled by Arduino.
+It includes night mode, cloudy mode, and stability correction
+using MPU6050.
+
